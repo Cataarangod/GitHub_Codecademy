@@ -3,7 +3,7 @@
 Hi, my name is Cata and I'm kind of new like you 😊
 
 I want to keep this things that may look so simple but hard to learn OR KEEP IN MY BRAIN, because I always get distracted;
-Sometimes coding can seem like a monster 👾 but once you take enough courage it's an easy and enjoyable fight ⚔
+Sometimes coding can seem like a monster 👾 but once you take enough courage it's an easy and enjoyable fight ⚔.
 
 Sooooooooooooooooooooooooooooooooo
 
@@ -18,10 +18,10 @@ through the command line you can create new files, edit the contents of those fi
 On Mac and Linux we access the command line with Bash; Windows comes with a different buil-in command line, but Windows users can also download bash.
 
 ### Navigation:
-Navigate through a computer filesystem: move files, delete files and directories and mooooore
+Navigate through a computer filesystem: View the content of the filesystem, move through the different directories (folders), and make new files and directories.
 
 ### Manipulation: 
-Manipulate the contents
+Manipulate the contents of the fylesystem; move files, delete files and directories and mooooore.
 
 ### Redirection
 Redirect
@@ -30,4 +30,4 @@ Redirect
 * Standart Error messages
 
 ### Configuration
-Configure your local enviroment, settings, preferences, shortcuts, nano and mooooooooooooore
+Configure your local enviroment, settings, preferences, shortcuts, nano and mooooooooooooore.
