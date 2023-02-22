@@ -17,17 +17,23 @@ through the command line you can create new files, edit the contents of those fi
 
 On Mac and Linux we access the command line with Bash; Windows comes with a different buil-in command line, but Windows users can also download bash.
 
-### Navigation:
+## Navigation:
 Navigate through a computer filesystem: View the content of the filesystem, move through the different directories (folders), and make new files and directories.
+* ![image](https://user-images.githubusercontent.com/75914408/220755638-8468cf3a-9158-47cc-9787-7ff625d330b9.png) When you type ls, the command line looks at the directory you are in, and then “lists” all the files and directories inside of it.
 
-### Manipulation: 
+* ![image](https://user-images.githubusercontent.com/75914408/220755681-6a98ec1c-6e8b-4961-9af3-2f0a3c1ff53a.png) PWD stands for “print working directory.” It outputs the name of the directory you are currently in, called the working directory. Together with ls, the pwd command is useful to show where you are in the filesystem.
+
+* 
+* 
+
+## Manipulation: 
 Manipulate the contents of the fylesystem; move files, delete files and directories and mooooore.
 
-### Redirection
+## Redirection
 Redirect
 * Standart Imput
 * Standtart Output
 * Standart Error messages
 
-### Configuration
+## Configuration
 Configure your local enviroment, settings, preferences, shortcuts, nano and mooooooooooooore.
