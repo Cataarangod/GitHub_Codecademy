@@ -7,10 +7,10 @@ it can be cool to just use a couple clicks and drags, but when you get more into
 
 ## Serious Part
 
-The command line is a text interface for our computer's OS (Operating System), We can use it to traverse and edit our filesystem,
+The command line is a text interface for our computer's OS (Operating System), We can use it to traverse and edit our filesystem;
 through the command line you can create new files, edit the contents of those files, delete them aaaand lots of pro things we'll learn together.
 
-On Mac and Linux we access the command line with Bash; Windows comes with a different buil-in command line, but Windows users can also download bash.
+On Mac and Linux we access the command line with Bash; Windows comes with a different buil-in command line, but Windows users can also download Bash.
 
 ### Navigation:
 Navigate through a computer filesystem: View the content of the filesystem, move through the different directories (folders), and make new files and directories.
