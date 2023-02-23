@@ -5,4 +5,4 @@ Hi, my name is Cata and I'm kind of new like you 😊 or maybe i've been trying 
 
 I want to keep this things that may look so simple but hard to learn OR KEEP IN MY BRAIN, because I always get distracted;
 
-Sometimes coding can seem like a monster 👾 but once you take enough courage it's an easy and enjoyable fight ⚔.
+Sometimes coding may seem monster-like 👾 but once you take enough courage it's an easy and enjoyable fight ⚔.
