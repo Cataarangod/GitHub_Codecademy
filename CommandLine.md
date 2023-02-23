@@ -18,8 +18,10 @@ Navigate through a computer filesystem: View the content of the filesystem, move
 ![image](https://user-images.githubusercontent.com/75914408/220755638-8468cf3a-9158-47cc-9787-7ff625d330b9.png) <br>
 ⬆ When you type ls, the command line looks at the directory you are in, and then “lists” all the files and directories inside of it.
 
+
 ![image](https://user-images.githubusercontent.com/75914408/220755681-6a98ec1c-6e8b-4961-9af3-2f0a3c1ff53a.png) <br>
 ⬆ pwd stands for “print working directory.” It outputs the name of the directory you are currently in, called the working directory. Together with ls, the pwd command is useful to show where you are in the filesystem.
+
 
 ![image](https://user-images.githubusercontent.com/75914408/220767680-31812462-47c9-48b3-95e2-38546c8d4d32.png) <br>
 ⬆ cd stands for “change directory.” Just as you would click on a folder in Windows Explorer or Finder, cd switches you into the directory you specify. In other words, cd changes the working directory. As you can see when we use ls the list it displays [2014  2015  hardware.txt] so if we use cd 2015 it will take us to "2015" directory
